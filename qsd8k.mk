@@ -39,6 +39,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     copybit.qsd8k \
     gralloc.qsd8k \
+	camera.qsd8k \
     hwcomposer.qsd8k \
     libgenlock \
     libmemalloc \
