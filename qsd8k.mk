@@ -14,9 +14,6 @@
 # limitations under the License.
 #
 
-# Inherit Qualcomm prebuilt libraries
-$(call inherit-product-if-exists, vendor/qcoms/qcom-vendor-blobs.mk)
-
 # English locale
 PRODUCT_LOCALES := en
 
